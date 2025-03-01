@@ -1,0 +1,3 @@
+- The dataset is present inside ```/data```
+- Use data_processing to preprocess data to key, value pairs to train the model.
+- Run main.ipynb to train and infer the T5 model.
